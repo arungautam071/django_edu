@@ -1,0 +1,1 @@
+web: gunicorn django_edu_22.wsgi
